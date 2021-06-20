@@ -3,3 +3,9 @@ rama frm remoterepo
 
 remote
 
+ssh key use generatiomnn 
+
+tutorial    
+
+ummadi
+
